@@ -1,0 +1,15 @@
+Desarrolla una web de una sola pantalla desplazable en un ÚNICO archivo `index.html` (CSS en `<style>`, JS en `<script>`).
+- FINALIDAD Y OBJETIVO: Presentar un proyecto o servicio personal [SUPUESTO] para generar confianza e interés.
+- ACCIÓN PRINCIPAL: Un único botón destacado de contacto directo [SUPUESTO].
+- PÚBLICO Y TONO: Público general navegando desde móviles [SUPUESTO]; tono cercano, claro y accesible [SUPUESTO].
+- SECCIONES (5): 1. Inicio (Hero) con llamada a la acción, 2. Qué hago, 3. Cómo funciona, 4. Preguntas frecuentes, 5. Contacto.
+- SISTEMA DE DISEÑO (design.md resumido):
+  * Colores: Fondo `#F8F9FA`, Texto `#212529`, Acento `#0D6EFD` (alto contraste).
+  * Tipografía: Fuentes del sistema (sans-serif), texto base de al menos 16 px.
+  * Espaciado y forma: Márgenes amplios, botones grandes (mínimo 44 px de alto), bordes redondeados [SUPUESTO].
+  * Principios: Diseño mobile-first, jerarquía clara, sin elementos decorativos superfluos.
+- REGLAS TÉCNICAS Y RESTRICCIONES:
+  * Entregar solo `index.html` en la raíz. Cero recursos externos, librerías, imágenes o fuentes descargables. Usar SVG inline.
+  * Sin datos inventados: sustituir nombres, correos, teléfonos o precios por `[PLACEHOLDER]`.
+  * Marcar zonas con comentarios HTML/CSS/JS: `EDITAR AQUÍ` para contenido y `NO TOCAR DESDE AQUÍ` para estructura.
+  * Funcionalidad: La página debe mostrar todo el contenido y enlaces legibles aunque el JavaScript no se ejecute.
